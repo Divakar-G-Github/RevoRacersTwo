@@ -1,0 +1,1434 @@
+fileFormatVersion: 2
+guid: cf88275843cadf0429a0cce16eb514ee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6502142044964976344
+    second: Futuristic Racing HUD Asset Sheet_0
+  - first:
+      213: -1668068721080547330
+    second: Futuristic Racing HUD Asset Sheet_1
+  - first:
+      213: 8683822150395564892
+    second: Futuristic Racing HUD Asset Sheet_2
+  - first:
+      213: -6443170579918445305
+    second: Futuristic Racing HUD Asset Sheet_3
+  - first:
+      213: 8232159322803414029
+    second: Futuristic Racing HUD Asset Sheet_4
+  - first:
+      213: -4452447047614644115
+    second: Futuristic Racing HUD Asset Sheet_5
+  - first:
+      213: -283240119201469709
+    second: Futuristic Racing HUD Asset Sheet_6
+  - first:
+      213: 1825879746787579289
+    second: Futuristic Racing HUD Asset Sheet_7
+  - first:
+      213: -6059350276203904065
+    second: Futuristic Racing HUD Asset Sheet_8
+  - first:
+      213: 5461125645917612828
+    second: Futuristic Racing HUD Asset Sheet_9
+  - first:
+      213: -6336766287089331833
+    second: Futuristic Racing HUD Asset Sheet_10
+  - first:
+      213: 5658512183799984349
+    second: Futuristic Racing HUD Asset Sheet_11
+  - first:
+      213: 3080560192932468048
+    second: Futuristic Racing HUD Asset Sheet_12
+  - first:
+      213: -4714611362288723315
+    second: Futuristic Racing HUD Asset Sheet_13
+  - first:
+      213: 5752873172493626231
+    second: Futuristic Racing HUD Asset Sheet_14
+  - first:
+      213: -6341793253514316567
+    second: Futuristic Racing HUD Asset Sheet_15
+  - first:
+      213: 391629312795956556
+    second: Futuristic Racing HUD Asset Sheet_16
+  - first:
+      213: -8592123638163003015
+    second: Futuristic Racing HUD Asset Sheet_17
+  - first:
+      213: 7499990256450287012
+    second: Futuristic Racing HUD Asset Sheet_18
+  - first:
+      213: 3364486782700502782
+    second: Futuristic Racing HUD Asset Sheet_19
+  - first:
+      213: -2503895419301929977
+    second: Futuristic Racing HUD Asset Sheet_20
+  - first:
+      213: 5567069132608379938
+    second: Futuristic Racing HUD Asset Sheet_21
+  - first:
+      213: 7495258318638331408
+    second: Futuristic Racing HUD Asset Sheet_22
+  - first:
+      213: -4814420052576446448
+    second: Futuristic Racing HUD Asset Sheet_23
+  - first:
+      213: 7638594207933381658
+    second: Futuristic Racing HUD Asset Sheet_24
+  - first:
+      213: -4063066383121727880
+    second: Futuristic Racing HUD Asset Sheet_25
+  - first:
+      213: -7816821430108976009
+    second: Futuristic Racing HUD Asset Sheet_26
+  - first:
+      213: -5576509741490667335
+    second: Futuristic Racing HUD Asset Sheet_27
+  - first:
+      213: -7225915370274526889
+    second: Futuristic Racing HUD Asset Sheet_28
+  - first:
+      213: 5736899538109468125
+    second: Futuristic Racing HUD Asset Sheet_29
+  - first:
+      213: 8916952020978449530
+    second: Futuristic Racing HUD Asset Sheet_30
+  - first:
+      213: -5554562745462128775
+    second: Futuristic Racing HUD Asset Sheet_31
+  - first:
+      213: 1497714676651249907
+    second: Futuristic Racing HUD Asset Sheet_32
+  - first:
+      213: 6979269424017038136
+    second: Futuristic Racing HUD Asset Sheet_33
+  - first:
+      213: -1601632870298419562
+    second: Futuristic Racing HUD Asset Sheet_34
+  - first:
+      213: -2467899680983479982
+    second: Futuristic Racing HUD Asset Sheet_35
+  - first:
+      213: -586004540450739528
+    second: Futuristic Racing HUD Asset Sheet_36
+  - first:
+      213: -5497006961303619761
+    second: Futuristic Racing HUD Asset Sheet_37
+  - first:
+      213: 6936131882534553794
+    second: Futuristic Racing HUD Asset Sheet_38
+  - first:
+      213: -6723932608738195248
+    second: Futuristic Racing HUD Asset Sheet_39
+  - first:
+      213: 7366985650061278624
+    second: Futuristic Racing HUD Asset Sheet_40
+  - first:
+      213: 3054121920920091176
+    second: Futuristic Racing HUD Asset Sheet_41
+  - first:
+      213: -6797459900769644014
+    second: Futuristic Racing HUD Asset Sheet_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Futuristic Racing HUD Asset Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 251
+        width: 814
+        height: 674
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6f4457dbf3c3a50800000000000000
+      internalID: 6502142044964976344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Racing HUD Asset Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 5
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7cd030654d9d8e0800000000000000
+      internalID: -1668068721080547330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Racing HUD Asset Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 165
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c531ff6ac32238870800000000000000
+      internalID: 8683822150395564892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Racing HUD Asset Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 142
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705a6b4be724596a0800000000000000
+      internalID: -6443170579918445305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Racing HUD Asset Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 109
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d042e1ac9418e3270800000000000000
+      internalID: 8232159322803414029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Racing HUD Asset Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 127
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6041b1100bb532c0800000000000000
+      internalID: -4452447047614644115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Racing HUD Asset Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 78
+        width: 59
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa6bdcbc9ab11cf0800000000000000
+      internalID: -283240119201469709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Racing HUD Asset Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 177
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9959adda4f3d65910800000000000000
+      internalID: 1825879746787579289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Racing HUD Asset Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 101
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb38331170dd8eba0800000000000000
+      internalID: -6059350276203904065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Racing HUD Asset Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 81
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1be1b637d0d9cb40800000000000000
+      internalID: 5461125645917612828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Racing HUD Asset Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 129
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7819e51b2a84f08a0800000000000000
+      internalID: -6336766287089331833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Racing HUD Asset Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 67
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd03e90e9d2178e40800000000000000
+      internalID: 5658512183799984349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Racing HUD Asset Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 105
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055d2f88c2950ca20800000000000000
+      internalID: 3080560192932468048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Racing HUD Asset Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 65
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a92c0f1f5529eb0800000000000000
+      internalID: -4714611362288723315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Racing HUD Asset Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 63
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b6b5c9baf46df40800000000000000
+      internalID: 5752873172493626231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Racing HUD Asset Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 76
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e47f4dd2ac6df7a0800000000000000
+      internalID: -6341793253514316567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Racing HUD Asset Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 96
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4555d8f8c85f6500800000000000000
+      internalID: 391629312795956556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Racing HUD Asset Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 77
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979ae09f215a2c880800000000000000
+      internalID: -8592123638163003015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Racing HUD Asset Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 97
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a53c9ec661551860800000000000000
+      internalID: 7499990256450287012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Racing HUD Asset Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 95
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe3c5e27ee01be20800000000000000
+      internalID: 3364486782700502782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Racing HUD Asset Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 99
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70cd7c1e160604dd0800000000000000
+      internalID: -2503895419301929977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Racing HUD Asset Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 114
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c1a2961e3324d40800000000000000
+      internalID: 5567069132608379938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Racing HUD Asset Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 117
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016ba3eaab1840860800000000000000
+      internalID: 7495258318638331408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Racing HUD Asset Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 103
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018d9a6587ebf2db0800000000000000
+      internalID: -4814420052576446448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Racing HUD Asset Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 111
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1cb93b06fcb10a60800000000000000
+      internalID: 7638594207933381658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Racing HUD Asset Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 117
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87eb23fc6a61d97c0800000000000000
+      internalID: -4063066383121727880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Racing HUD Asset Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 127
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c81b91352158390800000000000000
+      internalID: -7816821430108976009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Racing HUD Asset Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 127
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b081fb8fe14c92b0800000000000000
+      internalID: -5576509741490667335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Racing HUD Asset Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 97
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75960c9514468bb90800000000000000
+      internalID: -7225915370274526889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Racing HUD Asset Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 87
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd0e190cbf8d9f40800000000000000
+      internalID: 5736899538109468125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Racing HUD Asset Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 101
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c3f997e906fbb70800000000000000
+      internalID: 8916952020978449530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Racing HUD Asset Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 129
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f7c12cc9a3ae2b0800000000000000
+      internalID: -5554562745462128775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Racing HUD Asset Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 111
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0dfac2093f8c410800000000000000
+      internalID: 1497714676651249907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Racing HUD Asset Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 65
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83bd74a30985bd060800000000000000
+      internalID: 6979269424017038136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Racing HUD Asset Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 49
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ef549e36bd5c9e0800000000000000
+      internalID: -1601632870298419562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Racing HUD Asset Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 31
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2590eadc05240cdd0800000000000000
+      internalID: -2467899680983479982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Racing HUD Asset Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 141
+        width: 412
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8baeaa9a9f71ed7f0800000000000000
+      internalID: -586004540450739528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Racing HUD Asset Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 31
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47f5a70b45b6b3b0800000000000000
+      internalID: -5497006961303619761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Racing HUD Asset Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 109
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8cbbda237124060800000000000000
+      internalID: 6936131882534553794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Racing HUD Asset Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 159
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d88e72daeacfa2a0800000000000000
+      internalID: -6723932608738195248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Racing HUD Asset Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 183
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad7d41ba6acc3660800000000000000
+      internalID: 7366985650061278624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Racing HUD Asset Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 165
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82afc25a4bb626a20800000000000000
+      internalID: 3054121920920091176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Racing HUD Asset Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 159
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212d9a71c329aa1a0800000000000000
+      internalID: -6797459900769644014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Racing HUD Asset Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 132
+        width: 425
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ce35cf0867b6f43a4b4ea0816ace58
+      internalID: -1674102024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Racing HUD Asset Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 316
+        width: 347
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149cce2a2c5da864abd725d7633e6bab
+      internalID: 1722931987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Racing HUD Asset Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 313
+        width: 346
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e224579063cb1994182f15bb0152e610
+      internalID: -1832276867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Racing HUD Asset Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 478
+        width: 381
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169a5d3a41ced6343a5c7431a23121b1
+      internalID: -880110748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Racing HUD Asset Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 658
+        width: 220
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b072804d2b85b84f902fd43003f82b2
+      internalID: -625277036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Racing HUD Asset Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 661
+        width: 221
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fafcd2d955ab2409af651c6e629e58
+      internalID: 2044523097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Racing HUD Asset Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 655
+        width: 227
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4edbe8ff837f78943bbcf8830087d097
+      internalID: -794405053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Futuristic Racing HUD Asset Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 461
+        width: 385
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e360b346d027a7942a1aed8a1913e1d5
+      internalID: -2129647944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 51675bc97660b864b8a38621b84a73e5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Futuristic Racing HUD Asset Sheet_0: 6502142044964976344
+      Futuristic Racing HUD Asset Sheet_1: -1668068721080547330
+      Futuristic Racing HUD Asset Sheet_10: -6336766287089331833
+      Futuristic Racing HUD Asset Sheet_11: 5658512183799984349
+      Futuristic Racing HUD Asset Sheet_12: 3080560192932468048
+      Futuristic Racing HUD Asset Sheet_13: -4714611362288723315
+      Futuristic Racing HUD Asset Sheet_14: 5752873172493626231
+      Futuristic Racing HUD Asset Sheet_15: -6341793253514316567
+      Futuristic Racing HUD Asset Sheet_16: 391629312795956556
+      Futuristic Racing HUD Asset Sheet_17: -8592123638163003015
+      Futuristic Racing HUD Asset Sheet_18: 7499990256450287012
+      Futuristic Racing HUD Asset Sheet_19: 3364486782700502782
+      Futuristic Racing HUD Asset Sheet_2: 8683822150395564892
+      Futuristic Racing HUD Asset Sheet_20: -2503895419301929977
+      Futuristic Racing HUD Asset Sheet_21: 5567069132608379938
+      Futuristic Racing HUD Asset Sheet_22: 7495258318638331408
+      Futuristic Racing HUD Asset Sheet_23: -4814420052576446448
+      Futuristic Racing HUD Asset Sheet_24: 7638594207933381658
+      Futuristic Racing HUD Asset Sheet_25: -4063066383121727880
+      Futuristic Racing HUD Asset Sheet_26: -7816821430108976009
+      Futuristic Racing HUD Asset Sheet_27: -5576509741490667335
+      Futuristic Racing HUD Asset Sheet_28: -7225915370274526889
+      Futuristic Racing HUD Asset Sheet_29: 5736899538109468125
+      Futuristic Racing HUD Asset Sheet_3: -6443170579918445305
+      Futuristic Racing HUD Asset Sheet_30: 8916952020978449530
+      Futuristic Racing HUD Asset Sheet_31: -5554562745462128775
+      Futuristic Racing HUD Asset Sheet_32: 1497714676651249907
+      Futuristic Racing HUD Asset Sheet_33: 6979269424017038136
+      Futuristic Racing HUD Asset Sheet_34: -1601632870298419562
+      Futuristic Racing HUD Asset Sheet_35: -2467899680983479982
+      Futuristic Racing HUD Asset Sheet_36: -586004540450739528
+      Futuristic Racing HUD Asset Sheet_37: -5497006961303619761
+      Futuristic Racing HUD Asset Sheet_38: 6936131882534553794
+      Futuristic Racing HUD Asset Sheet_39: -6723932608738195248
+      Futuristic Racing HUD Asset Sheet_4: 8232159322803414029
+      Futuristic Racing HUD Asset Sheet_40: 7366985650061278624
+      Futuristic Racing HUD Asset Sheet_41: 3054121920920091176
+      Futuristic Racing HUD Asset Sheet_42: -6797459900769644014
+      Futuristic Racing HUD Asset Sheet_43: -1674102024
+      Futuristic Racing HUD Asset Sheet_44: 1722931987
+      Futuristic Racing HUD Asset Sheet_45: -1832276867
+      Futuristic Racing HUD Asset Sheet_46: -880110748
+      Futuristic Racing HUD Asset Sheet_47: -625277036
+      Futuristic Racing HUD Asset Sheet_48: 2044523097
+      Futuristic Racing HUD Asset Sheet_49: -794405053
+      Futuristic Racing HUD Asset Sheet_5: -4452447047614644115
+      Futuristic Racing HUD Asset Sheet_50: -2129647944
+      Futuristic Racing HUD Asset Sheet_6: -283240119201469709
+      Futuristic Racing HUD Asset Sheet_7: 1825879746787579289
+      Futuristic Racing HUD Asset Sheet_8: -6059350276203904065
+      Futuristic Racing HUD Asset Sheet_9: 5461125645917612828
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3200 @@
+fileFormatVersion: 2
+guid: 170501bdf796baf46875400ac4c46efd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 817718843728594819
+    second: decal.002_baseColor_0
+  - first:
+      213: -98056520169444025
+    second: decal.002_baseColor_1
+  - first:
+      213: 6428624550762975892
+    second: decal.002_baseColor_2
+  - first:
+      213: 3731027883407021763
+    second: decal.002_baseColor_3
+  - first:
+      213: -2429339015995989950
+    second: decal.002_baseColor_4
+  - first:
+      213: -623023882073719864
+    second: decal.002_baseColor_5
+  - first:
+      213: 2086458118642021561
+    second: decal.002_baseColor_6
+  - first:
+      213: -3683670732689270506
+    second: decal.002_baseColor_7
+  - first:
+      213: 1609202366461008912
+    second: decal.002_baseColor_8
+  - first:
+      213: 7973843658250984518
+    second: decal.002_baseColor_9
+  - first:
+      213: 8355664562636531159
+    second: decal.002_baseColor_10
+  - first:
+      213: 2070327792025664418
+    second: decal.002_baseColor_11
+  - first:
+      213: -4447468354273651904
+    second: decal.002_baseColor_12
+  - first:
+      213: 2336030580336564681
+    second: decal.002_baseColor_13
+  - first:
+      213: -6943672569596378975
+    second: decal.002_baseColor_14
+  - first:
+      213: -2040960275571779568
+    second: decal.002_baseColor_15
+  - first:
+      213: -8879507428629034655
+    second: decal.002_baseColor_16
+  - first:
+      213: 2331651451586424265
+    second: decal.002_baseColor_17
+  - first:
+      213: -677501997827674028
+    second: decal.002_baseColor_18
+  - first:
+      213: 1091019929080792001
+    second: decal.002_baseColor_19
+  - first:
+      213: 1064380297392559195
+    second: decal.002_baseColor_20
+  - first:
+      213: 7632371839433049381
+    second: decal.002_baseColor_21
+  - first:
+      213: 3345844832121887163
+    second: decal.002_baseColor_22
+  - first:
+      213: -8991796643566608136
+    second: decal.002_baseColor_23
+  - first:
+      213: 2456714901319913752
+    second: decal.002_baseColor_24
+  - first:
+      213: -2563246094641314693
+    second: decal.002_baseColor_25
+  - first:
+      213: 6180374167548160867
+    second: decal.002_baseColor_26
+  - first:
+      213: 1399872775079836537
+    second: decal.002_baseColor_27
+  - first:
+      213: 4656140853710625502
+    second: decal.002_baseColor_28
+  - first:
+      213: -7057601645096739343
+    second: decal.002_baseColor_29
+  - first:
+      213: 6349948869120080792
+    second: decal.002_baseColor_30
+  - first:
+      213: 34900499696447594
+    second: decal.002_baseColor_31
+  - first:
+      213: -7962570177537997036
+    second: decal.002_baseColor_32
+  - first:
+      213: 4878327762032215215
+    second: decal.002_baseColor_33
+  - first:
+      213: 8666791043718322030
+    second: decal.002_baseColor_34
+  - first:
+      213: -568563645273104719
+    second: decal.002_baseColor_35
+  - first:
+      213: -4196575244650462352
+    second: decal.002_baseColor_36
+  - first:
+      213: 8615276083716598429
+    second: decal.002_baseColor_37
+  - first:
+      213: 3440858607235013047
+    second: decal.002_baseColor_38
+  - first:
+      213: -1781524761860624633
+    second: decal.002_baseColor_39
+  - first:
+      213: 4920182156832959878
+    second: decal.002_baseColor_40
+  - first:
+      213: 8872916896607505506
+    second: decal.002_baseColor_41
+  - first:
+      213: -3811798236581420748
+    second: decal.002_baseColor_42
+  - first:
+      213: 7704164422190600945
+    second: decal.002_baseColor_43
+  - first:
+      213: -7690116601348434402
+    second: decal.002_baseColor_44
+  - first:
+      213: 7679718905663518285
+    second: decal.002_baseColor_45
+  - first:
+      213: 2874938360459198745
+    second: decal.002_baseColor_46
+  - first:
+      213: 538734478766567061
+    second: decal.002_baseColor_47
+  - first:
+      213: 5356277135806606969
+    second: decal.002_baseColor_48
+  - first:
+      213: 9051231060596647649
+    second: decal.002_baseColor_49
+  - first:
+      213: 3015436189309790
+    second: decal.002_baseColor_50
+  - first:
+      213: -235550324742090997
+    second: decal.002_baseColor_51
+  - first:
+      213: 5647593305827219603
+    second: decal.002_baseColor_52
+  - first:
+      213: -6237527254936712459
+    second: decal.002_baseColor_53
+  - first:
+      213: -6883807733882607847
+    second: decal.002_baseColor_54
+  - first:
+      213: 5679982340790252305
+    second: decal.002_baseColor_55
+  - first:
+      213: 5107960555465997437
+    second: decal.002_baseColor_56
+  - first:
+      213: -6513950334127146760
+    second: decal.002_baseColor_57
+  - first:
+      213: 8844924298621966661
+    second: decal.002_baseColor_58
+  - first:
+      213: -5576833167964677110
+    second: decal.002_baseColor_59
+  - first:
+      213: -9218563535689575098
+    second: decal.002_baseColor_60
+  - first:
+      213: -7533047633631532712
+    second: decal.002_baseColor_61
+  - first:
+      213: -6056862702305268983
+    second: decal.002_baseColor_62
+  - first:
+      213: -3030623445553023726
+    second: decal.002_baseColor_63
+  - first:
+      213: 8837533929159290011
+    second: decal.002_baseColor_64
+  - first:
+      213: 4418994191441308518
+    second: decal.002_baseColor_65
+  - first:
+      213: 7771030504257991789
+    second: decal.002_baseColor_66
+  - first:
+      213: -2525001083171850370
+    second: decal.002_baseColor_67
+  - first:
+      213: -4188852276035868699
+    second: decal.002_baseColor_68
+  - first:
+      213: 7256627383565451325
+    second: decal.002_baseColor_69
+  - first:
+      213: 4988831978843939363
+    second: decal.002_baseColor_70
+  - first:
+      213: -4006773127672259549
+    second: decal.002_baseColor_71
+  - first:
+      213: -7237552905258517235
+    second: decal.002_baseColor_72
+  - first:
+      213: 6469654893560820455
+    second: decal.002_baseColor_73
+  - first:
+      213: -2682058930674483395
+    second: decal.002_baseColor_74
+  - first:
+      213: 2059153506320520633
+    second: decal.002_baseColor_75
+  - first:
+      213: 2370015346033167433
+    second: decal.002_baseColor_76
+  - first:
+      213: -2111204899642857723
+    second: decal.002_baseColor_77
+  - first:
+      213: 6079811046476886691
+    second: decal.002_baseColor_78
+  - first:
+      213: -3435654809817583060
+    second: decal.002_baseColor_79
+  - first:
+      213: -5233390368114536465
+    second: decal.002_baseColor_80
+  - first:
+      213: -4624811447362605285
+    second: decal.002_baseColor_81
+  - first:
+      213: 6838905644020321900
+    second: decal.002_baseColor_82
+  - first:
+      213: 5383734759754920296
+    second: decal.002_baseColor_83
+  - first:
+      213: -368169839415656099
+    second: decal.002_baseColor_84
+  - first:
+      213: 2967196136313727850
+    second: decal.002_baseColor_85
+  - first:
+      213: 17208560398421575
+    second: decal.002_baseColor_86
+  - first:
+      213: -7249043236869599548
+    second: decal.002_baseColor_87
+  - first:
+      213: -4319576461385587812
+    second: decal.002_baseColor_88
+  - first:
+      213: -1291656306911614493
+    second: decal.002_baseColor_89
+  - first:
+      213: -1780038112436680551
+    second: decal.002_baseColor_90
+  - first:
+      213: 4796156606807170024
+    second: decal.002_baseColor_91
+  - first:
+      213: -2747862852269630446
+    second: decal.002_baseColor_92
+  - first:
+      213: -322826366167998063
+    second: decal.002_baseColor_93
+  - first:
+      213: -6883131845721412935
+    second: decal.002_baseColor_94
+  - first:
+      213: -5566462224211493796
+    second: decal.002_baseColor_95
+  - first:
+      213: -5010996138499613604
+    second: decal.002_baseColor_96
+  - first:
+      213: 4003223067586548592
+    second: decal.002_baseColor_97
+  - first:
+      213: 7851235075369118047
+    second: decal.002_baseColor_98
+  - first:
+      213: 8695256607152568563
+    second: decal.002_baseColor_99
+  - first:
+      213: 7525508179192871966
+    second: decal.002_baseColor_100
+  - first:
+      213: 6575423231634457725
+    second: decal.002_baseColor_101
+  - first:
+      213: 3817163244983349434
+    second: decal.002_baseColor_102
+  - first:
+      213: -3805802972784689667
+    second: decal.002_baseColor_103
+  - first:
+      213: -8314631042719436861
+    second: decal.002_baseColor_104
+  - first:
+      213: -2596212770466693016
+    second: decal.002_baseColor_105
+  - first:
+      213: 6357926105819106081
+    second: decal.002_baseColor_106
+  - first:
+      213: 3559732905393657480
+    second: decal.002_baseColor_107
+  - first:
+      213: 1763303898534842148
+    second: decal.002_baseColor_108
+  - first:
+      213: -8695648230654185997
+    second: decal.002_baseColor_109
+  - first:
+      213: -2434025256286433759
+    second: decal.002_baseColor_110
+  - first:
+      213: 7227000248212510791
+    second: decal.002_baseColor_111
+  - first:
+      213: -1408582103715944025
+    second: decal.002_baseColor_112
+  - first:
+      213: -6652988759811418907
+    second: decal.002_baseColor_113
+  - first:
+      213: 4737244417206950998
+    second: decal.002_baseColor_114
+  - first:
+      213: 6540451432002583494
+    second: decal.002_baseColor_115
+  - first:
+      213: -3717557057219538113
+    second: decal.002_baseColor_116
+  - first:
+      213: 3995831076592092422
+    second: decal.002_baseColor_117
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: decal.002_baseColor_0
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 3815
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3870696b4fe195b00800000000000000
+      internalID: 817718843728594819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_1
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 3771
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74da36b4d12a3aef0800000000000000
+      internalID: -98056520169444025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_2
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 3683
+        width: 92
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4921596f7ff073950800000000000000
+      internalID: 6428624550762975892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_3
+      rect:
+        serializedVersion: 2
+        x: 2199
+        y: 3698
+        width: 162
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c69d85971647c330800000000000000
+      internalID: 3731027883407021763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_4
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 3703
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240ef804901494ed0800000000000000
+      internalID: -2429339015995989950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_5
+      rect:
+        serializedVersion: 2
+        x: 2497
+        y: 3703
+        width: 160
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb396684139a57f0800000000000000
+      internalID: -623023882073719864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_6
+      rect:
+        serializedVersion: 2
+        x: 2643
+        y: 3698
+        width: 190
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b43368ba9694fc10800000000000000
+      internalID: 2086458118642021561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_7
+      rect:
+        serializedVersion: 2
+        x: 2823
+        y: 3675
+        width: 160
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6199d8c4cf8f0ecc0800000000000000
+      internalID: -3683670732689270506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_8
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 3596
+        width: 86
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c50a0c609055610800000000000000
+      internalID: 1609202366461008912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_9
+      rect:
+        serializedVersion: 2
+        x: 2987
+        y: 3646
+        width: 206
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c1d885f88c8ae60800000000000000
+      internalID: 7973843658250984518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_10
+      rect:
+        serializedVersion: 2
+        x: 3362
+        y: 3689
+        width: 108
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5254646a845f370800000000000000
+      internalID: 8355664562636531159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_11
+      rect:
+        serializedVersion: 2
+        x: 3490
+        y: 3642
+        width: 114
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2abfe4468284bbc10800000000000000
+      internalID: 2070327792025664418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_12
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 3596
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0435ab1781b6742c0800000000000000
+      internalID: -4447468354273651904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_13
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 3638
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9196d9f6f3b6020800000000000000
+      internalID: 2336030580336564681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_14
+      rect:
+        serializedVersion: 2
+        x: 3598
+        y: 3631
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0859c469e13af90800000000000000
+      internalID: -6943672569596378975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_15
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 3322
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0185cdd517d0da3e0800000000000000
+      internalID: -2040960275571779568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_16
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 3322
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169cf101a07a5c480800000000000000
+      internalID: -8879507428629034655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_17
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 3322
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd25df34a0bb5020800000000000000
+      internalID: 2331651451586424265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_18
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 3322
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4503dd4c5870996f0800000000000000
+      internalID: -677501997827674028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_19
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 3322
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c38bb358d4142f00800000000000000
+      internalID: 1091019929080792001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_20
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 3322
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54120cbd3075ce00800000000000000
+      internalID: 1064380297392559195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_21
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 3322
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5250a1bffb1abe960800000000000000
+      internalID: 7632371839433049381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_22
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 3323
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb99334d524de6e20800000000000000
+      internalID: 3345844832121887163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_23
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 3323
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0a9afd798b63380800000000000000
+      internalID: -8991796643566608136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_24
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 3323
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811159fbf21081220800000000000000
+      internalID: 2456714901319913752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_25
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 3323
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b744ff0f1458d6cd0800000000000000
+      internalID: -2563246094641314693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_26
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 3323
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b65b37f8915c550800000000000000
+      internalID: 6180374167548160867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_27
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 3323
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97bbf514fd85d6310800000000000000
+      internalID: 1399872775079836537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_28
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 3323
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda1b99ef6fed9040800000000000000
+      internalID: 4656140853710625502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_29
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 3275
+        width: 77
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fddbc152bc5e0e90800000000000000
+      internalID: -7057601645096739343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_30
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 3217
+        width: 18
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89bbbcd5adc8f1850800000000000000
+      internalID: 6349948869120080792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_31
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 3217
+        width: 20
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60f3eec1ddfb7000800000000000000
+      internalID: 34900499696447594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_32
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 3250
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4178abc6c944f7190800000000000000
+      internalID: -7962570177537997036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_33
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 3221
+        width: 59
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa44bd9c04d43b340800000000000000
+      internalID: 4878327762032215215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_34
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 3215
+        width: 55
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e671e5f1980a64870800000000000000
+      internalID: 8666791043718322030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_35
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 3248
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be9b43806e0c18f0800000000000000
+      internalID: -568563645273104719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_36
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 3219
+        width: 57
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0734965ac05c2c5c0800000000000000
+      internalID: -4196575244650462352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_37
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 3275
+        width: 79
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9aa8d3d3fb9f8770800000000000000
+      internalID: 8615276083716598429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_38
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 3069
+        width: 380
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9969e3ca260cf20800000000000000
+      internalID: 3440858607235013047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_39
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 2961
+        width: 114
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f2cb20ba0c647e0800000000000000
+      internalID: -1781524761860624633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_40
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 3035
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d6e387a9ff74440800000000000000
+      internalID: 4920182156832959878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_41
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 2880
+        width: 74
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c0adf18eee22b70800000000000000
+      internalID: 8872916896607505506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_42
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 2880
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431aa1913b5c91bc0800000000000000
+      internalID: -3811798236581420748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_43
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 2880
+        width: 68
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f29fdb39b0baea60800000000000000
+      internalID: 7704164422190600945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_44
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2880
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16da4fe1b7374590800000000000000
+      internalID: -7690116601348434402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_45
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 2880
+        width: 105
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46fce2e7a7d39a60800000000000000
+      internalID: 7679718905663518285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_46
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 2570
+        width: 262
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911805ee435d5e720800000000000000
+      internalID: 2874938360459198745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_47
+      rect:
+        serializedVersion: 2
+        x: 3037
+        y: 2608
+        width: 160
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ee2237728f97700800000000000000
+      internalID: 538734478766567061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_48
+      rect:
+        serializedVersion: 2
+        x: 3534
+        y: 2714
+        width: 60
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97eac4e1da1555a40800000000000000
+      internalID: 5356277135806606969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_49
+      rect:
+        serializedVersion: 2
+        x: 3591
+        y: 2736
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e668d2b1be6c9d70800000000000000
+      internalID: 9051231060596647649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_50
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 2553
+        width: 187
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b18e2f586ba0000800000000000000
+      internalID: 3015436189309790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_51
+      rect:
+        serializedVersion: 2
+        x: 2738
+        y: 2563
+        width: 160
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f05074a382bbcf0800000000000000
+      internalID: -235550324742090997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_52
+      rect:
+        serializedVersion: 2
+        x: 2899
+        y: 2577
+        width: 150
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39894bd7038406e40800000000000000
+      internalID: 5647593305827219603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_53
+      rect:
+        serializedVersion: 2
+        x: 3394
+        y: 2674
+        width: 74
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa0eac620adf69a0800000000000000
+      internalID: -6237527254936712459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_54
+      rect:
+        serializedVersion: 2
+        x: 3463
+        y: 2694
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91727d7865dc770a0800000000000000
+      internalID: -6883807733882607847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_55
+      rect:
+        serializedVersion: 2
+        x: 3486
+        y: 2699
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1137b4958d953de40800000000000000
+      internalID: 5679982340790252305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_56
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 2557
+        width: 204
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7cf143ef0f13e640800000000000000
+      internalID: 5107960555465997437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_57
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 2553
+        width: 157
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f870d9feacc995a0800000000000000
+      internalID: -6513950334127146760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_58
+      rect:
+        serializedVersion: 2
+        x: 3363
+        y: 2666
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549559489cb7fba70800000000000000
+      internalID: 8844924298621966661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_59
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 2356
+        width: 115
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c59d3f7cb1b92b0800000000000000
+      internalID: -5576833167964677110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_60
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 2259
+        width: 75
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6459adb6e45111080800000000000000
+      internalID: -9218563535689575098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_61
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 2259
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859ab49c61d357790800000000000000
+      internalID: -7533047633631532712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_62
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 2259
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b28cf7673b1fba0800000000000000
+      internalID: -6056862702305268983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_63
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 2259
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21577df780011f5d0800000000000000
+      internalID: -3030623445553023726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_64
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 2165
+        width: 178
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c600a094a35aa70800000000000000
+      internalID: 8837533929159290011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_65
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 2161
+        width: 70
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66baf55edcb635d30800000000000000
+      internalID: 4418994191441308518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_66
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 2111
+        width: 187
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d64b509221f38db60800000000000000
+      internalID: 7771030504257991789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_67
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 2039
+        width: 81
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77b01494e465fcd0800000000000000
+      internalID: -2525001083171850370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_68
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 2070
+        width: 90
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7ab466c053ed5c0800000000000000
+      internalID: -4188852276035868699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_69
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 2070
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d308ac87828b4b460800000000000000
+      internalID: 7256627383565451325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_70
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 2039
+        width: 95
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3222a17b044eb3540800000000000000
+      internalID: 4988831978843939363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_71
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1989
+        width: 194
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c9385b1151568c0800000000000000
+      internalID: -4006773127672259549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_72
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1987
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d38f69afb0f8b90800000000000000
+      internalID: -7237552905258517235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_73
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1987
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e27f0619d4d8c950800000000000000
+      internalID: 6469654893560820455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_74
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 1987
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3fbb7adc9967cad0800000000000000
+      internalID: -2682058930674483395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_75
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1987
+        width: 58
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b51c324435939c10800000000000000
+      internalID: 2059153506320520633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_76
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1943
+        width: 11
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c088c766cf3e020800000000000000
+      internalID: 2370015346033167433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_77
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1943
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50729b4545e73b2e0800000000000000
+      internalID: -2111204899642857723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_78
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1943
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a230ce3fe3df5450800000000000000
+      internalID: 6079811046476886691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_79
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1943
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22f5f1472a1250d0800000000000000
+      internalID: -3435654809817583060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_80
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1943
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef059910334f57b0800000000000000
+      internalID: -5233390368114536465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_81
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1887
+        width: 119
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1faaceed7e51dfb0800000000000000
+      internalID: -4624811447362605285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_82
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 1888
+        width: 13
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ece3cf27ca8ee50800000000000000
+      internalID: 6838905644020321900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_83
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1888
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8617d106d3ed6ba40800000000000000
+      internalID: 5383734759754920296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_84
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1555
+        width: 70
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d510e905b7ff3eaf0800000000000000
+      internalID: -368169839415656099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_85
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 1551
+        width: 74
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b24e34a299d2920800000000000000
+      internalID: 2967196136313727850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_86
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 1543
+        width: 74
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ec4a138132d3000800000000000000
+      internalID: 17208560398421575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_87
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 1540
+        width: 65
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce80f84599366b90800000000000000
+      internalID: -7249043236869599548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_88
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 1480
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9329fe2818cd04c0800000000000000
+      internalID: -4319576461385587812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_89
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1387
+        width: 66
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9e3aeae6d131ee0800000000000000
+      internalID: -1291656306911614493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_90
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1387
+        width: 152
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9980e8d84c80c47e0800000000000000
+      internalID: -1780038112436680551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_91
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1375
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb52e3d50f5f8240800000000000000
+      internalID: 4796156606807170024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_92
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1375
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c1afe6b41add9d0800000000000000
+      internalID: -2747862852269630446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_93
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1375
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1912d606127158bf0800000000000000
+      internalID: -322826366167998063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_94
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1375
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9baa8910e043a70a0800000000000000
+      internalID: -6883131845721412935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_95
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1375
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c3e367914ffb2b0800000000000000
+      internalID: -5566462224211493796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_96
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1375
+        width: 47
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c50e9bf8d557ab0800000000000000
+      internalID: -5010996138499613604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_97
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1375
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07355248b2e4e8730800000000000000
+      internalID: 4003223067586548592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_98
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1375
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59a67314b035fc60800000000000000
+      internalID: 7851235075369118047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_99
+      rect:
+        serializedVersion: 2
+        x: 3680
+        y: 1278
+        width: 70
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8723490d1cba870800000000000000
+      internalID: 8695256607152568563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_100
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1171
+        width: 88
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c761f21d9ff6860800000000000000
+      internalID: 7525508179192871966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_101
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 803
+        width: 175
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d744c615798904b50800000000000000
+      internalID: 6575423231634457725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_102
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 801
+        width: 174
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0f8e24fb949f430800000000000000
+      internalID: 3817163244983349434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_103
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 656
+        width: 145
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfdfa0a3c521f2bc0800000000000000
+      internalID: -3805802972784689667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_104
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 693
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cfa5449e1f7c9c80800000000000000
+      internalID: -8314631042719436861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_105
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 700
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86000079d3668fbd0800000000000000
+      internalID: -2596212770466693016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_106
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 719
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12bc7858b14eb3850800000000000000
+      internalID: 6357926105819106081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_107
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 730
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88612499736b66130800000000000000
+      internalID: 3559732905393657480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_108
+      rect:
+        serializedVersion: 2
+        x: 3372
+        y: 632
+        width: 145
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f0b37ad83887810800000000000000
+      internalID: 1763303898534842148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_109
+      rect:
+        serializedVersion: 2
+        x: 3631
+        y: 687
+        width: 146
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd6a18710ad25780800000000000000
+      internalID: -8695648230654185997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_110
+      rect:
+        serializedVersion: 2
+        x: 3778
+        y: 698
+        width: 76
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ec7b8ecea983ed0800000000000000
+      internalID: -2434025256286433759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_111
+      rect:
+        serializedVersion: 2
+        x: 3847
+        y: 705
+        width: 66
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748dd5a7f667b4460800000000000000
+      internalID: 7227000248212510791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_112
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 571
+        width: 70
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9e9072a06b37ce0800000000000000
+      internalID: -1408582103715944025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_113
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 522
+        width: 179
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e416c4d8f5dba3a0800000000000000
+      internalID: -6652988759811418907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_114
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 607
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c92ddc2b21eb140800000000000000
+      internalID: 4737244417206950998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_115
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 542
+        width: 85
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb7533bce954ca50800000000000000
+      internalID: 6540451432002583494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_116
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 526
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33de2c8d85986cc0800000000000000
+      internalID: -3717557057219538113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal.002_baseColor_117
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 432
+        width: 140
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6050dbe713b047730800000000000000
+      internalID: 3995831076592092422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      decal.002_baseColor_0: 817718843728594819
+      decal.002_baseColor_1: -98056520169444025
+      decal.002_baseColor_10: 8355664562636531159
+      decal.002_baseColor_100: 7525508179192871966
+      decal.002_baseColor_101: 6575423231634457725
+      decal.002_baseColor_102: 3817163244983349434
+      decal.002_baseColor_103: -3805802972784689667
+      decal.002_baseColor_104: -8314631042719436861
+      decal.002_baseColor_105: -2596212770466693016
+      decal.002_baseColor_106: 6357926105819106081
+      decal.002_baseColor_107: 3559732905393657480
+      decal.002_baseColor_108: 1763303898534842148
+      decal.002_baseColor_109: -8695648230654185997
+      decal.002_baseColor_11: 2070327792025664418
+      decal.002_baseColor_110: -2434025256286433759
+      decal.002_baseColor_111: 7227000248212510791
+      decal.002_baseColor_112: -1408582103715944025
+      decal.002_baseColor_113: -6652988759811418907
+      decal.002_baseColor_114: 4737244417206950998
+      decal.002_baseColor_115: 6540451432002583494
+      decal.002_baseColor_116: -3717557057219538113
+      decal.002_baseColor_117: 3995831076592092422
+      decal.002_baseColor_12: -4447468354273651904
+      decal.002_baseColor_13: 2336030580336564681
+      decal.002_baseColor_14: -6943672569596378975
+      decal.002_baseColor_15: -2040960275571779568
+      decal.002_baseColor_16: -8879507428629034655
+      decal.002_baseColor_17: 2331651451586424265
+      decal.002_baseColor_18: -677501997827674028
+      decal.002_baseColor_19: 1091019929080792001
+      decal.002_baseColor_2: 6428624550762975892
+      decal.002_baseColor_20: 1064380297392559195
+      decal.002_baseColor_21: 7632371839433049381
+      decal.002_baseColor_22: 3345844832121887163
+      decal.002_baseColor_23: -8991796643566608136
+      decal.002_baseColor_24: 2456714901319913752
+      decal.002_baseColor_25: -2563246094641314693
+      decal.002_baseColor_26: 6180374167548160867
+      decal.002_baseColor_27: 1399872775079836537
+      decal.002_baseColor_28: 4656140853710625502
+      decal.002_baseColor_29: -7057601645096739343
+      decal.002_baseColor_3: 3731027883407021763
+      decal.002_baseColor_30: 6349948869120080792
+      decal.002_baseColor_31: 34900499696447594
+      decal.002_baseColor_32: -7962570177537997036
+      decal.002_baseColor_33: 4878327762032215215
+      decal.002_baseColor_34: 8666791043718322030
+      decal.002_baseColor_35: -568563645273104719
+      decal.002_baseColor_36: -4196575244650462352
+      decal.002_baseColor_37: 8615276083716598429
+      decal.002_baseColor_38: 3440858607235013047
+      decal.002_baseColor_39: -1781524761860624633
+      decal.002_baseColor_4: -2429339015995989950
+      decal.002_baseColor_40: 4920182156832959878
+      decal.002_baseColor_41: 8872916896607505506
+      decal.002_baseColor_42: -3811798236581420748
+      decal.002_baseColor_43: 7704164422190600945
+      decal.002_baseColor_44: -7690116601348434402
+      decal.002_baseColor_45: 7679718905663518285
+      decal.002_baseColor_46: 2874938360459198745
+      decal.002_baseColor_47: 538734478766567061
+      decal.002_baseColor_48: 5356277135806606969
+      decal.002_baseColor_49: 9051231060596647649
+      decal.002_baseColor_5: -623023882073719864
+      decal.002_baseColor_50: 3015436189309790
+      decal.002_baseColor_51: -235550324742090997
+      decal.002_baseColor_52: 5647593305827219603
+      decal.002_baseColor_53: -6237527254936712459
+      decal.002_baseColor_54: -6883807733882607847
+      decal.002_baseColor_55: 5679982340790252305
+      decal.002_baseColor_56: 5107960555465997437
+      decal.002_baseColor_57: -6513950334127146760
+      decal.002_baseColor_58: 8844924298621966661
+      decal.002_baseColor_59: -5576833167964677110
+      decal.002_baseColor_6: 2086458118642021561
+      decal.002_baseColor_60: -9218563535689575098
+      decal.002_baseColor_61: -7533047633631532712
+      decal.002_baseColor_62: -6056862702305268983
+      decal.002_baseColor_63: -3030623445553023726
+      decal.002_baseColor_64: 8837533929159290011
+      decal.002_baseColor_65: 4418994191441308518
+      decal.002_baseColor_66: 7771030504257991789
+      decal.002_baseColor_67: -2525001083171850370
+      decal.002_baseColor_68: -4188852276035868699
+      decal.002_baseColor_69: 7256627383565451325
+      decal.002_baseColor_7: -3683670732689270506
+      decal.002_baseColor_70: 4988831978843939363
+      decal.002_baseColor_71: -4006773127672259549
+      decal.002_baseColor_72: -7237552905258517235
+      decal.002_baseColor_73: 6469654893560820455
+      decal.002_baseColor_74: -2682058930674483395
+      decal.002_baseColor_75: 2059153506320520633
+      decal.002_baseColor_76: 2370015346033167433
+      decal.002_baseColor_77: -2111204899642857723
+      decal.002_baseColor_78: 6079811046476886691
+      decal.002_baseColor_79: -3435654809817583060
+      decal.002_baseColor_8: 1609202366461008912
+      decal.002_baseColor_80: -5233390368114536465
+      decal.002_baseColor_81: -4624811447362605285
+      decal.002_baseColor_82: 6838905644020321900
+      decal.002_baseColor_83: 5383734759754920296
+      decal.002_baseColor_84: -368169839415656099
+      decal.002_baseColor_85: 2967196136313727850
+      decal.002_baseColor_86: 17208560398421575
+      decal.002_baseColor_87: -7249043236869599548
+      decal.002_baseColor_88: -4319576461385587812
+      decal.002_baseColor_89: -1291656306911614493
+      decal.002_baseColor_9: 7973843658250984518
+      decal.002_baseColor_90: -1780038112436680551
+      decal.002_baseColor_91: 4796156606807170024
+      decal.002_baseColor_92: -2747862852269630446
+      decal.002_baseColor_93: -322826366167998063
+      decal.002_baseColor_94: -6883131845721412935
+      decal.002_baseColor_95: -5566462224211493796
+      decal.002_baseColor_96: -5010996138499613604
+      decal.002_baseColor_97: 4003223067586548592
+      decal.002_baseColor_98: 7851235075369118047
+      decal.002_baseColor_99: 8695256607152568563
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

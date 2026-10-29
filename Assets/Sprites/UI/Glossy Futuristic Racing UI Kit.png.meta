@@ -1,0 +1,989 @@
+fileFormatVersion: 2
+guid: 51bed154eba8e48408e595d97ff9ef03
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6911213256591034934
+    second: Glossy Futuristic Racing UI Kit_0
+  - first:
+      213: 74431227824531890
+    second: Glossy Futuristic Racing UI Kit_1
+  - first:
+      213: 1874330713446529472
+    second: Glossy Futuristic Racing UI Kit_2
+  - first:
+      213: 298967477932683056
+    second: Glossy Futuristic Racing UI Kit_3
+  - first:
+      213: -4998159036958041983
+    second: Glossy Futuristic Racing UI Kit_4
+  - first:
+      213: 4891080201743135725
+    second: Glossy Futuristic Racing UI Kit_5
+  - first:
+      213: 957114646290130391
+    second: Glossy Futuristic Racing UI Kit_6
+  - first:
+      213: -676616796167659309
+    second: Glossy Futuristic Racing UI Kit_7
+  - first:
+      213: 5136156557803254773
+    second: Glossy Futuristic Racing UI Kit_8
+  - first:
+      213: -9056382958742789876
+    second: Glossy Futuristic Racing UI Kit_9
+  - first:
+      213: -60129727181702510
+    second: Glossy Futuristic Racing UI Kit_10
+  - first:
+      213: -1947893182743782849
+    second: Glossy Futuristic Racing UI Kit_11
+  - first:
+      213: -107085030685441228
+    second: Glossy Futuristic Racing UI Kit_12
+  - first:
+      213: -8668053047866201177
+    second: Glossy Futuristic Racing UI Kit_13
+  - first:
+      213: 5506869407290419398
+    second: Glossy Futuristic Racing UI Kit_14
+  - first:
+      213: 3509577151534824265
+    second: Glossy Futuristic Racing UI Kit_15
+  - first:
+      213: -4335686842933115636
+    second: Glossy Futuristic Racing UI Kit_16
+  - first:
+      213: 2551992241119079941
+    second: Glossy Futuristic Racing UI Kit_17
+  - first:
+      213: -8787299638753723142
+    second: Glossy Futuristic Racing UI Kit_18
+  - first:
+      213: 6624710831684769306
+    second: Glossy Futuristic Racing UI Kit_19
+  - first:
+      213: -5180291275615863583
+    second: Glossy Futuristic Racing UI Kit_20
+  - first:
+      213: -4029495753491539039
+    second: Glossy Futuristic Racing UI Kit_21
+  - first:
+      213: 2429881735104657629
+    second: Glossy Futuristic Racing UI Kit_22
+  - first:
+      213: -8652976613341669754
+    second: Glossy Futuristic Racing UI Kit_23
+  - first:
+      213: 8108231456178205818
+    second: Glossy Futuristic Racing UI Kit_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Glossy Futuristic Racing UI Kit_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 763
+        width: 516
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5bbe909207610a0800000000000000
+      internalID: -6911213256591034934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Futuristic Racing UI Kit_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 773
+        width: 199
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b96daeaece680100800000000000000
+      internalID: 74431227824531890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Futuristic Racing UI Kit_2
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 797
+        width: 193
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9b59e6ad5f20a10800000000000000
+      internalID: 1874330713446529472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Futuristic Racing UI Kit_3
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 803
+        width: 163
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f62915655262400800000000000000
+      internalID: 298967477932683056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Futuristic Racing UI Kit_4
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 805
+        width: 149
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188153756d8f2aab0800000000000000
+      internalID: -4998159036958041983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Futuristic Racing UI Kit_5
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 653
+        width: 173
+        height: 352
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de378d8878b90e340800000000000000
+      internalID: 4891080201743135725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Futuristic Racing UI Kit_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 757
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5627523ba584d00800000000000000
+      internalID: 957114646290130391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Futuristic Racing UI Kit_7
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 667
+        width: 138
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d02d57db9c2c96f0800000000000000
+      internalID: -676616796167659309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Futuristic Racing UI Kit_8
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 669
+        width: 167
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3f7a24d2b474740800000000000000
+      internalID: 5136156557803254773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Futuristic Racing UI Kit_9
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 645
+        width: 287
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c012c3a8ea3415280800000000000000
+      internalID: -9056382958742789876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Futuristic Racing UI Kit_10
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 759
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ab4eae4506a2ff0800000000000000
+      internalID: -60129727181702510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Futuristic Racing UI Kit_11
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 655
+        width: 75
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ad62e7871b7f4e0800000000000000
+      internalID: -1947893182743782849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Futuristic Racing UI Kit_12
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 735
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4338b316bbe838ef0800000000000000
+      internalID: -107085030685441228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Futuristic Racing UI Kit_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 553
+        height: 639
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab61b3ada3e4b780800000000000000
+      internalID: -8668053047866201177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Futuristic Racing UI Kit_14
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 647
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8e20e9c845c6c40800000000000000
+      internalID: 5506869407290419398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Futuristic Racing UI Kit_15
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 535
+        width: 549
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b7f0523d584b030800000000000000
+      internalID: 3509577151534824265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Futuristic Racing UI Kit_16
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 204
+        width: 199
+        height: 442
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0503ada9cb84d3c0800000000000000
+      internalID: -4335686842933115636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Futuristic Racing UI Kit_17
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 429
+        width: 553
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ea4791c6f7a6320800000000000000
+      internalID: 2551992241119079941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Futuristic Racing UI Kit_18
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 313
+        width: 539
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc7a21298d3d0680800000000000000
+      internalID: -8787299638753723142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Futuristic Racing UI Kit_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 273
+        width: 5
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16d046f663bfeb50800000000000000
+      internalID: 6624710831684769306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Futuristic Racing UI Kit_20
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 207
+        width: 119
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec7cdbf788eb18b0800000000000000
+      internalID: -5180291275615863583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Futuristic Racing UI Kit_21
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 219
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab113d16fa5418c0800000000000000
+      internalID: -4029495753491539039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Futuristic Racing UI Kit_22
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 23
+        width: 409
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd87f13609ca8b120800000000000000
+      internalID: 2429881735104657629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Futuristic Racing UI Kit_23
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 31
+        width: 357
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686d1089d937ae780800000000000000
+      internalID: -8652976613341669754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Futuristic Racing UI Kit_24
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 15
+        width: 179
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a747626dc89368070800000000000000
+      internalID: 8108231456178205818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Futuristic Racing UI Kit_25
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 802
+        width: 177
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23daf2bf60be658418ebc87e1c4141c7
+      internalID: 1725340600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Futuristic Racing UI Kit_26
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 201
+        width: 270
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251f583b554e1e84fa9865bf38ff1307
+      internalID: 1889550383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Futuristic Racing UI Kit_27
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 314
+        width: 270
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166f13cd4b7b94f4ebf8ceae736bd656
+      internalID: 795714888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Futuristic Racing UI Kit_28
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 301
+        width: 115
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155aa18d20e2a4245a0e79258174f91f
+      internalID: 1681303206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Futuristic Racing UI Kit_29
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 528
+        width: 116
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d3ad8a9348dee4e95892459104d985
+      internalID: -1994802366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Futuristic Racing UI Kit_30
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 415
+        width: 114
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be77de56f43ddc143bc2c59ee7578c53
+      internalID: 49465097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Futuristic Racing UI Kit_31
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 186
+        width: 115
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8598b6a238909034395402fb4e1ed6bd
+      internalID: 703145816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Futuristic Racing UI Kit_32
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 646
+        width: 468
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c753b7a0621e714f883c4553d5abba3
+      internalID: 61054045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Futuristic Racing UI Kit_33
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 536
+        width: 260
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e93813935a1a474383eb9419908fec0
+      internalID: 2034692950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 13f21443f0628db4eb5a6a62068f1052
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Glossy Futuristic Racing UI Kit_0: -6911213256591034934
+      Glossy Futuristic Racing UI Kit_1: 74431227824531890
+      Glossy Futuristic Racing UI Kit_10: -60129727181702510
+      Glossy Futuristic Racing UI Kit_11: -1947893182743782849
+      Glossy Futuristic Racing UI Kit_12: -107085030685441228
+      Glossy Futuristic Racing UI Kit_13: -8668053047866201177
+      Glossy Futuristic Racing UI Kit_14: 5506869407290419398
+      Glossy Futuristic Racing UI Kit_15: 3509577151534824265
+      Glossy Futuristic Racing UI Kit_16: -4335686842933115636
+      Glossy Futuristic Racing UI Kit_17: 2551992241119079941
+      Glossy Futuristic Racing UI Kit_18: -8787299638753723142
+      Glossy Futuristic Racing UI Kit_19: 6624710831684769306
+      Glossy Futuristic Racing UI Kit_2: 1874330713446529472
+      Glossy Futuristic Racing UI Kit_20: -5180291275615863583
+      Glossy Futuristic Racing UI Kit_21: -4029495753491539039
+      Glossy Futuristic Racing UI Kit_22: 2429881735104657629
+      Glossy Futuristic Racing UI Kit_23: -8652976613341669754
+      Glossy Futuristic Racing UI Kit_24: 8108231456178205818
+      Glossy Futuristic Racing UI Kit_25: 1725340600
+      Glossy Futuristic Racing UI Kit_26: 1889550383
+      Glossy Futuristic Racing UI Kit_27: 795714888
+      Glossy Futuristic Racing UI Kit_28: 1681303206
+      Glossy Futuristic Racing UI Kit_29: -1994802366
+      Glossy Futuristic Racing UI Kit_3: 298967477932683056
+      Glossy Futuristic Racing UI Kit_30: 49465097
+      Glossy Futuristic Racing UI Kit_31: 703145816
+      Glossy Futuristic Racing UI Kit_32: 61054045
+      Glossy Futuristic Racing UI Kit_33: 2034692950
+      Glossy Futuristic Racing UI Kit_4: -4998159036958041983
+      Glossy Futuristic Racing UI Kit_5: 4891080201743135725
+      Glossy Futuristic Racing UI Kit_6: 957114646290130391
+      Glossy Futuristic Racing UI Kit_7: -676616796167659309
+      Glossy Futuristic Racing UI Kit_8: 5136156557803254773
+      Glossy Futuristic Racing UI Kit_9: -9056382958742789876
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

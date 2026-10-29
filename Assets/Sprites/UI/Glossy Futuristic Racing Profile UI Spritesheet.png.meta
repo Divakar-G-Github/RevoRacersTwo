@@ -1,0 +1,509 @@
+fileFormatVersion: 2
+guid: 70825b5d25846094a8f1fffce1625776
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7611608357543660074
+    second: Glossy Futuristic Racing Profile UI Spritesheet_0
+  - first:
+      213: -9143825246224639185
+    second: Glossy Futuristic Racing Profile UI Spritesheet_1
+  - first:
+      213: -5826498772584197869
+    second: Glossy Futuristic Racing Profile UI Spritesheet_2
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Glossy Futuristic Racing Profile UI Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 714
+        width: 311
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5373fd6822e5690800000000000000
+      internalID: -7611608357543660074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Futuristic Racing Profile UI Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 810
+        width: 838
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b1886726b9a1180800000000000000
+      internalID: -9143825246224639185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Futuristic Racing Profile UI Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 384
+        width: 418
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3119ed78c3e142fa0800000000000000
+      internalID: -5826498772584197869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Futuristic Racing Profile UI Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 904
+        width: 110
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06ff7e4f5c6c27489241a8b22ea853c
+      internalID: -1413952954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Futuristic Racing Profile UI Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 908
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c228fd8cdc1373418023083a57297e2
+      internalID: 381934581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Futuristic Racing Profile UI Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 251
+        width: 350
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0789fc4c7cb9024479b99128aabba09e
+      internalID: -679389242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Futuristic Racing Profile UI Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 199
+        width: 351
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8b98f549ccdb54dbd684e836cdc35f
+      internalID: -1300266864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Futuristic Racing Profile UI Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 144
+        width: 349
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ee6b546c11b9b489f5e9f35e98a118
+      internalID: 1385961411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Futuristic Racing Profile UI Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 34
+        width: 152
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8b76ad5af29cd4582aad9a5b4a92d1
+      internalID: -185516183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Futuristic Racing Profile UI Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 34
+        width: 162
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d1558cf81d20f4398c55f5cd656415
+      internalID: -1884090294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Futuristic Racing Profile UI Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 35
+        width: 160
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5571376199121ec4bab15ea0f6d92211
+      internalID: -1300200248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Futuristic Racing Profile UI Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 35
+        width: 150
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a231a802a4b1e82409916706baab96bb
+      internalID: -1761267373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Futuristic Racing Profile UI Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 36
+        width: 129
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7480ec774801b6348bd1aad8166be992
+      internalID: 1240510926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Futuristic Racing Profile UI Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 769
+        width: 357
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334d123d701da9944a63744909aa6641
+      internalID: -768275084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Futuristic Racing Profile UI Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 391
+        width: 282
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef6b61aaa803014c9d62a7d96dbaa8e
+      internalID: 356237339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Futuristic Racing Profile UI Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 22
+        width: 99
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb5384c8e5250640a7edb7c0a44f764
+      internalID: 993173034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 79efa5042c1fce245828aaf423a11dae
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Glossy Futuristic Racing Profile UI Spritesheet_0: -7611608357543660074
+      Glossy Futuristic Racing Profile UI Spritesheet_1: -9143825246224639185
+      Glossy Futuristic Racing Profile UI Spritesheet_10: -1300200248
+      Glossy Futuristic Racing Profile UI Spritesheet_11: -1761267373
+      Glossy Futuristic Racing Profile UI Spritesheet_12: 1240510926
+      Glossy Futuristic Racing Profile UI Spritesheet_13: -768275084
+      Glossy Futuristic Racing Profile UI Spritesheet_14: 356237339
+      Glossy Futuristic Racing Profile UI Spritesheet_15: 993173034
+      Glossy Futuristic Racing Profile UI Spritesheet_2: -5826498772584197869
+      Glossy Futuristic Racing Profile UI Spritesheet_3: -1413952954
+      Glossy Futuristic Racing Profile UI Spritesheet_4: 381934581
+      Glossy Futuristic Racing Profile UI Spritesheet_5: -679389242
+      Glossy Futuristic Racing Profile UI Spritesheet_6: -1300266864
+      Glossy Futuristic Racing Profile UI Spritesheet_7: 1385961411
+      Glossy Futuristic Racing Profile UI Spritesheet_8: -185516183
+      Glossy Futuristic Racing Profile UI Spritesheet_9: -1884090294
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

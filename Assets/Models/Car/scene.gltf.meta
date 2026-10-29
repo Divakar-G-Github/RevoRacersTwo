@@ -1,0 +1,354 @@
+fileFormatVersion: 2
+guid: d35b8472a3313684687efb89a9ea02d4
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 715df9372183c47e389bb6e19fbc3b52, type: 3}
+  editorImportSettings:
+    generateSecondaryUVSet: 0
+  importSettings:
+    nodeNameMethod: 1
+    animationMethod: 2
+    generateMipMaps: 1
+    texturesReadable: 0
+    defaultMinFilterMode: 9729
+    defaultMagFilterMode: 9729
+    anisotropicFilterLevel: 1
+  instantiationSettings:
+    mask: -1
+    layer: 0
+    skinUpdateWhenOffscreen: 1
+    lightIntensityFactor: 1
+    sceneObjectCreation: 2
+  assetDependencies:
+  - type: 0
+    originalUri: Assets\Models\Car\scene.bin
+    assetPath: Assets\Models\Car\scene.bin
+  - type: 1
+    originalUri: Assets\Models\Car\textures\gp21_cinture.002_baseColor.png
+    assetPath: Assets\Models\Car\textures\gp21_cinture.002_baseColor.png
+  - type: 1
+    originalUri: Assets\Models\Car\textures\chrome.002_baseColor.png
+    assetPath: Assets\Models\Car\textures\chrome.002_baseColor.png
+  - type: 1
+    originalUri: Assets\Models\Car\textures\cockpit.002_baseColor.png
+    assetPath: Assets\Models\Car\textures\cockpit.002_baseColor.png
+  - type: 1
+    originalUri: Assets\Models\Car\textures\cockpit.002_metallicRoughness.png
+    assetPath: Assets\Models\Car\textures\cockpit.002_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Models\Car\textures\cockpit.002_normal.png
+    assetPath: Assets\Models\Car\textures\cockpit.002_normal.png
+  - type: 1
+    originalUri: Assets\Models\Car\textures\generics.002_baseColor.png
+    assetPath: Assets\Models\Car\textures\generics.002_baseColor.png
+  - type: 1
+    originalUri: Assets\Models\Car\textures\generics.002_metallicRoughness.png
+    assetPath: Assets\Models\Car\textures\generics.002_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Models\Car\textures\cockpit_black_s.002_baseColor.png
+    assetPath: Assets\Models\Car\textures\cockpit_black_s.002_baseColor.png
+  - type: 1
+    originalUri: Assets\Models\Car\textures\cockpit_black_s.002_metallicRoughness.png
+    assetPath: Assets\Models\Car\textures\cockpit_black_s.002_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Models\Car\textures\cockpit_foam.002_baseColor.png
+    assetPath: Assets\Models\Car\textures\cockpit_foam.002_baseColor.png
+  - type: 1
+    originalUri: Assets\Models\Car\textures\cockpit_foam.002_metallicRoughness.png
+    assetPath: Assets\Models\Car\textures\cockpit_foam.002_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Models\Car\textures\cockpit_metal.002_metallicRoughness.png
+    assetPath: Assets\Models\Car\textures\cockpit_metal.002_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Models\Car\textures\NEGRO.002_baseColor.png
+    assetPath: Assets\Models\Car\textures\NEGRO.002_baseColor.png
+  - type: 1
+    originalUri: Assets\Models\Car\textures\chasis.002_baseColor.png
+    assetPath: Assets\Models\Car\textures\chasis.002_baseColor.png
+  - type: 1
+    originalUri: Assets\Models\Car\textures\carbon.002_baseColor.png
+    assetPath: Assets\Models\Car\textures\carbon.002_baseColor.png
+  - type: 1
+    originalUri: Assets\Models\Car\textures\carbon.002_metallicRoughness.png
+    assetPath: Assets\Models\Car\textures\carbon.002_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Models\Car\textures\decal.002_baseColor.png
+    assetPath: Assets\Models\Car\textures\decal.002_baseColor.png
+  - type: 1
+    originalUri: Assets\Models\Car\textures\mirrors.002_baseColor.png
+    assetPath: Assets\Models\Car\textures\mirrors.002_baseColor.png
+  - type: 1
+    originalUri: Assets\Models\Car\textures\chassis2.002_baseColor.png
+    assetPath: Assets\Models\Car\textures\chassis2.002_baseColor.png
+  - type: 1
+    originalUri: Assets\Models\Car\textures\redbull_detail.002_baseColor.png
+    assetPath: Assets\Models\Car\textures\redbull_detail.002_baseColor.png
+  - type: 1
+    originalUri: Assets\Models\Car\textures\rear_light.002_baseColor.png
+    assetPath: Assets\Models\Car\textures\rear_light.002_baseColor.png
+  - type: 1
+    originalUri: Assets\Models\Car\textures\rtt_light.002_baseColor.png
+    assetPath: Assets\Models\Car\textures\rtt_light.002_baseColor.png
+  - type: 1
+    originalUri: Assets\Models\Car\textures\rtt_light.002_normal.png
+    assetPath: Assets\Models\Car\textures\rtt_light.002_normal.png
+  - type: 1
+    originalUri: Assets\Models\Car\textures\CLEARLED.003_baseColor.png
+    assetPath: Assets\Models\Car\textures\CLEARLED.003_baseColor.png
+  - type: 1
+    originalUri: Assets\Models\Car\textures\kers_orange.002_baseColor.png
+    assetPath: Assets\Models\Car\textures\kers_orange.002_baseColor.png
+  - type: 1
+    originalUri: Assets\Models\Car\textures\kers_green.002_baseColor.png
+    assetPath: Assets\Models\Car\textures\kers_green.002_baseColor.png
+  - type: 1
+    originalUri: Assets\Models\Car\textures\gp21_LCD.002_baseColor.png
+    assetPath: Assets\Models\Car\textures\gp21_LCD.002_baseColor.png
+  - type: 1
+    originalUri: Assets\Models\Car\textures\rtt_sw_qr.002_baseColor.png
+    assetPath: Assets\Models\Car\textures\rtt_sw_qr.002_baseColor.png
+  - type: 1
+    originalUri: Assets\Models\Car\textures\rtt_sw_qr.002_metallicRoughness.png
+    assetPath: Assets\Models\Car\textures\rtt_sw_qr.002_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Models\Car\textures\BLACK.002_baseColor.png
+    assetPath: Assets\Models\Car\textures\BLACK.002_baseColor.png
+  - type: 1
+    originalUri: Assets\Models\Car\textures\rtt_sw_buttons.002_baseColor.png
+    assetPath: Assets\Models\Car\textures\rtt_sw_buttons.002_baseColor.png
+  - type: 1
+    originalUri: Assets\Models\Car\textures\rtt_sw_buttons.002_metallicRoughness.png
+    assetPath: Assets\Models\Car\textures\rtt_sw_buttons.002_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Models\Car\textures\rtt_sw_chrome.002_baseColor.png
+    assetPath: Assets\Models\Car\textures\rtt_sw_chrome.002_baseColor.png
+  - type: 1
+    originalUri: Assets\Models\Car\textures\rtt_sw_chrome.002_metallicRoughness.png
+    assetPath: Assets\Models\Car\textures\rtt_sw_chrome.002_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Models\Car\textures\rtt_sw_handles.002_baseColor.png
+    assetPath: Assets\Models\Car\textures\rtt_sw_handles.002_baseColor.png
+  - type: 1
+    originalUri: Assets\Models\Car\textures\rtt_sw_handles.002_metallicRoughness.png
+    assetPath: Assets\Models\Car\textures\rtt_sw_handles.002_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Models\Car\textures\sw_plastic_black.002_baseColor.png
+    assetPath: Assets\Models\Car\textures\sw_plastic_black.002_baseColor.png
+  - type: 1
+    originalUri: Assets\Models\Car\textures\sw_plastic_black.002_metallicRoughness.png
+    assetPath: Assets\Models\Car\textures\sw_plastic_black.002_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\Models\Car\textures\discs.002_baseColor.png
+    assetPath: Assets\Models\Car\textures\discs.002_baseColor.png
+  - type: 1
+    originalUri: Assets\Models\Car\textures\redbull_wheel_hub.002_baseColor.png
+    assetPath: Assets\Models\Car\textures\redbull_wheel_hub.002_baseColor.png
+  - type: 1
+    originalUri: Assets\Models\Car\textures\redbull_wheel_hub.002_normal.png
+    assetPath: Assets\Models\Car\textures\redbull_wheel_hub.002_normal.png
+  - type: 1
+    originalUri: Assets\Models\Car\textures\TIRE_SIDES.002_baseColor.png
+    assetPath: Assets\Models\Car\textures\TIRE_SIDES.002_baseColor.png
+  - type: 1
+    originalUri: Assets\Models\Car\textures\TIRE_SIDES.002_normal.png
+    assetPath: Assets\Models\Car\textures\TIRE_SIDES.002_normal.png
+  - type: 1
+    originalUri: Assets\Models\Car\textures\glass.002_baseColor.png
+    assetPath: Assets\Models\Car\textures\glass.002_baseColor.png
+  reportItems:
+  - type: 2
+    code: 20
+    messages:
+    - KHR_materials_specular
+  - type: 2
+    code: 51
+    messages: []
+  - type: 2
+    code: 51
+    messages: []
+  - type: 2
+    code: 51
+    messages: []
+  - type: 2
+    code: 51
+    messages: []
+  - type: 2
+    code: 51
+    messages: []
+  - type: 2
+    code: 51
+    messages: []
+  - type: 2
+    code: 51
+    messages: []
+  - type: 2
+    code: 51
+    messages: []
+  - type: 2
+    code: 51
+    messages: []
+  - type: 2
+    code: 51
+    messages: []
+  - type: 2
+    code: 51
+    messages: []
+  - type: 2
+    code: 51
+    messages: []
+  - type: 2
+    code: 51
+    messages: []
+  - type: 2
+    code: 51
+    messages: []
+  - type: 2
+    code: 51
+    messages: []
+  - type: 2
+    code: 51
+    messages: []
+  - type: 2
+    code: 51
+    messages: []
+  - type: 2
+    code: 51
+    messages: []
+  - type: 2
+    code: 51
+    messages: []
+  - type: 2
+    code: 51
+    messages: []
+  - type: 2
+    code: 51
+    messages: []
+  - type: 2
+    code: 51
+    messages: []
+  - type: 2
+    code: 51
+    messages: []
+  - type: 2
+    code: 51
+    messages: []
+  - type: 2
+    code: 51
+    messages: []
+  - type: 2
+    code: 51
+    messages: []
+  - type: 2
+    code: 51
+    messages: []
+  - type: 2
+    code: 51
+    messages: []
+  - type: 2
+    code: 51
+    messages: []
+  - type: 2
+    code: 51
+    messages: []
+  - type: 2
+    code: 51
+    messages: []
+  - type: 2
+    code: 51
+    messages: []
+  - type: 2
+    code: 51
+    messages: []
+  - type: 2
+    code: 51
+    messages: []
+  - type: 2
+    code: 51
+    messages: []
+  - type: 2
+    code: 51
+    messages: []
+  - type: 2
+    code: 51
+    messages: []
+  - type: 2
+    code: 51
+    messages: []
+  - type: 2
+    code: 51
+    messages: []
+  - type: 2
+    code: 51
+    messages: []
+  - type: 2
+    code: 51
+    messages: []
+  - type: 2
+    code: 51
+    messages: []
+  - type: 2
+    code: 51
+    messages: []
+  - type: 2
+    code: 51
+    messages: []
+  - type: 2
+    code: 51
+    messages: []
+  - type: 2
+    code: 51
+    messages: []
+  - type: 2
+    code: 51
+    messages: []
+  - type: 2
+    code: 51
+    messages: []
+  - type: 2
+    code: 51
+    messages: []
+  - type: 2
+    code: 51
+    messages: []
+  - type: 2
+    code: 51
+    messages: []
+  - type: 2
+    code: 51
+    messages: []
+  - type: 2
+    code: 51
+    messages: []
+  - type: 2
+    code: 51
+    messages: []
+  - type: 2
+    code: 51
+    messages: []
+  - type: 2
+    code: 51
+    messages: []
+  - type: 2
+    code: 51
+    messages: []
+  - type: 2
+    code: 51
+    messages: []
+  - type: 2
+    code: 51
+    messages: []
+  - type: 2
+    code: 51
+    messages: []
+  - type: 2
+    code: 51
+    messages: []
+  - type: 0
+    code: 52
+    messages:
+    - 2

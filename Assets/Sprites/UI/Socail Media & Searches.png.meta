@@ -1,0 +1,539 @@
+fileFormatVersion: 2
+guid: cdcb1f3bccbc52e4eb37c8e8f8603a35
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6578259234962211083
+    second: Socail Media & Searches_0
+  - first:
+      213: 9200722794087068398
+    second: Socail Media & Searches_1
+  - first:
+      213: -1744116721301173140
+    second: Socail Media & Searches_2
+  - first:
+      213: -2386314708003480970
+    second: Socail Media & Searches_3
+  - first:
+      213: 7199129506990479156
+    second: Socail Media & Searches_4
+  - first:
+      213: -7134146009705156318
+    second: Socail Media & Searches_5
+  - first:
+      213: 3592151607807841943
+    second: Socail Media & Searches_6
+  - first:
+      213: 5868613329937382312
+    second: Socail Media & Searches_7
+  - first:
+      213: -6648036477718612493
+    second: Socail Media & Searches_8
+  - first:
+      213: 1269672334160453617
+    second: Socail Media & Searches_9
+  - first:
+      213: 3086179035506890526
+    second: Socail Media & Searches_10
+  - first:
+      213: 6490653207182017354
+    second: Socail Media & Searches_11
+  - first:
+      213: -7320411790902431426
+    second: Socail Media & Searches_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Socail Media & Searches_0
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 421
+        width: 175
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b010b5ccbebaa4b50800000000000000
+      internalID: 6578259234962211083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Socail Media & Searches_1
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 420
+        width: 177
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2366a32a88faf70800000000000000
+      internalID: 9200722794087068398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Socail Media & Searches_2
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 420
+        width: 177
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c460c2517abc7e0800000000000000
+      internalID: -1744116721301173140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Socail Media & Searches_3
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 422
+        width: 174
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a99239a6b12eed0800000000000000
+      internalID: -2386314708003480970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Socail Media & Searches_4
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 270
+        width: 145
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437533cd42278e360800000000000000
+      internalID: 7199129506990479156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Socail Media & Searches_5
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 270
+        width: 143
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221f0c3a00c6efc90800000000000000
+      internalID: -7134146009705156318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Socail Media & Searches_6
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 270
+        width: 151
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7961cb2fad2e9d130800000000000000
+      internalID: 3592151607807841943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Socail Media & Searches_7
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 282
+        width: 110
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab3a07fab0817150800000000000000
+      internalID: 5868613329937382312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Socail Media & Searches_8
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 115
+        width: 141
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f53ebbdb0e6db3a0800000000000000
+      internalID: -6648036477718612493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Socail Media & Searches_9
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 127
+        width: 150
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff56cac248ce9110800000000000000
+      internalID: 1269672334160453617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Socail Media & Searches_10
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 127
+        width: 153
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1755a44b7f44da20800000000000000
+      internalID: 3086179035506890526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Socail Media & Searches_11
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 159
+        width: 103
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a438556f3be631a50800000000000000
+      internalID: 6490653207182017354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Socail Media & Searches_12
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 47
+        width: 104
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31fda9e24ca86a90800000000000000
+      internalID: -7320411790902431426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Socail Media & Searches_13
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 423
+        width: 176
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac608c1509534f64a8bc1bba96cf5ef9
+      internalID: 1725110729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Socail Media & Searches_14
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 424
+        width: 175
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556516509993b284392edc3e712b0135
+      internalID: -779932056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Socail Media & Searches_15
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 421
+        width: 177
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6678a9f3cab5a44864abb8a32f9da6
+      internalID: -300948465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9bdfc218887f5e8429c41b6f33aa1c15
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Socail Media & Searches_0: 6578259234962211083
+      Socail Media & Searches_1: 9200722794087068398
+      Socail Media & Searches_10: 3086179035506890526
+      Socail Media & Searches_11: 6490653207182017354
+      Socail Media & Searches_12: -7320411790902431426
+      Socail Media & Searches_13: 1725110729
+      Socail Media & Searches_14: -779932056
+      Socail Media & Searches_15: -300948465
+      Socail Media & Searches_2: -1744116721301173140
+      Socail Media & Searches_3: -2386314708003480970
+      Socail Media & Searches_4: 7199129506990479156
+      Socail Media & Searches_5: -7134146009705156318
+      Socail Media & Searches_6: 3592151607807841943
+      Socail Media & Searches_7: 5868613329937382312
+      Socail Media & Searches_8: -6648036477718612493
+      Socail Media & Searches_9: 1269672334160453617
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

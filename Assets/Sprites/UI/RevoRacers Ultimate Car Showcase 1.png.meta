@@ -1,0 +1,496 @@
+fileFormatVersion: 2
+guid: 2a51cf10d1260604b8c4e6b2dc297e94
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7463560401821087797
+    second: RevoRacers Ultimate Car Showcase 1_0
+  - first:
+      213: 5948824777807690561
+    second: RevoRacers Ultimate Car Showcase 1_1
+  - first:
+      213: 6097107698298627814
+    second: RevoRacers Ultimate Car Showcase 1_2
+  - first:
+      213: 6368984995455779339
+    second: RevoRacers Ultimate Car Showcase 1_3
+  - first:
+      213: -5808367586054621599
+    second: RevoRacers Ultimate Car Showcase 1_4
+  - first:
+      213: 1974550679504082695
+    second: RevoRacers Ultimate Car Showcase 1_5
+  - first:
+      213: -3594924495351837514
+    second: RevoRacers Ultimate Car Showcase 1_6
+  - first:
+      213: -7475940529358020947
+    second: RevoRacers Ultimate Car Showcase 1_7
+  - first:
+      213: 7561264269994018101
+    second: RevoRacers Ultimate Car Showcase 1_8
+  - first:
+      213: 8574751790734626774
+    second: RevoRacers Ultimate Car Showcase 1_9
+  - first:
+      213: 8364544857615896225
+    second: RevoRacers Ultimate Car Showcase 1_10
+  - first:
+      213: 7682483665309737949
+    second: RevoRacers Ultimate Car Showcase 1_11
+  - first:
+      213: 39837919922405872
+    second: RevoRacers Ultimate Car Showcase 1_12
+  - first:
+      213: -6399175911519706669
+    second: RevoRacers Ultimate Car Showcase 1_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RevoRacers Ultimate Car Showcase 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1536
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc748c1bb5b1c6890800000000000000
+      internalID: -7463560401821087797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RevoRacers Ultimate Car Showcase 1_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 76
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14bf4400e987e8250800000000000000
+      internalID: 5948824777807690561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RevoRacers Ultimate Car Showcase 1_2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 55
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6a362d5274d9450800000000000000
+      internalID: 6097107698298627814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RevoRacers Ultimate Car Showcase 1_3
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 53
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b024fe9eb1e236850800000000000000
+      internalID: 6368984995455779339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RevoRacers Ultimate Car Showcase 1_4
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 55
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166325c5478846fa0800000000000000
+      internalID: -5808367586054621599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RevoRacers Ultimate Car Showcase 1_5
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 0
+        width: 629
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707d8d2a163076b10800000000000000
+      internalID: 1974550679504082695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RevoRacers Ultimate Car Showcase 1_6
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 17
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc043cd7334c1ec0800000000000000
+      internalID: -3594924495351837514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RevoRacers Ultimate Car Showcase 1_7
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 21
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae5ba1a2bf104890800000000000000
+      internalID: -7475940529358020947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RevoRacers Ultimate Car Showcase 1_8
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 17
+        width: 220
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535c8d1dac10fe860800000000000000
+      internalID: 7561264269994018101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RevoRacers Ultimate Car Showcase 1_9
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 13
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dfc1eb9253aff670800000000000000
+      internalID: 8574751790734626774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RevoRacers Ultimate Car Showcase 1_10
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 63
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae04021b35d41470800000000000000
+      internalID: 8364544857615896225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RevoRacers Ultimate Car Showcase 1_11
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 55
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd32787a03aad9a60800000000000000
+      internalID: 7682483665309737949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RevoRacers Ultimate Car Showcase 1_12
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 19
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1c09980688d8000800000000000000
+      internalID: 39837919922405872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RevoRacers Ultimate Car Showcase 1_13
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 54
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1a1aaa96f8137a0800000000000000
+      internalID: -6399175911519706669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RevoRacers Ultimate Car Showcase 1_0: -7463560401821087797
+      RevoRacers Ultimate Car Showcase 1_1: 5948824777807690561
+      RevoRacers Ultimate Car Showcase 1_10: 8364544857615896225
+      RevoRacers Ultimate Car Showcase 1_11: 7682483665309737949
+      RevoRacers Ultimate Car Showcase 1_12: 39837919922405872
+      RevoRacers Ultimate Car Showcase 1_13: -6399175911519706669
+      RevoRacers Ultimate Car Showcase 1_2: 6097107698298627814
+      RevoRacers Ultimate Car Showcase 1_3: 6368984995455779339
+      RevoRacers Ultimate Car Showcase 1_4: -5808367586054621599
+      RevoRacers Ultimate Car Showcase 1_5: 1974550679504082695
+      RevoRacers Ultimate Car Showcase 1_6: -3594924495351837514
+      RevoRacers Ultimate Car Showcase 1_7: -7475940529358020947
+      RevoRacers Ultimate Car Showcase 1_8: 7561264269994018101
+      RevoRacers Ultimate Car Showcase 1_9: 8574751790734626774
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
