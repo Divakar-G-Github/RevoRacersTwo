@@ -21,6 +21,29 @@ public class CarInput : MonoBehaviour
     public float Steer { get; private set; }      // -1 = left, +1 = right
     public float Brake { get; private set; }      // 0..1 (Space)
     public bool InputEnabled { get; set; } = true;
+    public bool UseExternalInput { get; set; }
+
+    // Called by the AI driver. The values are used as they are (no smoothing).
+    public void SetExternalInput(float throttle, float steer, float brake)
+    {
+        if (!UseExternalInput)
+        {
+            return;
+        }
+
+        if (InputEnabled)
+        {
+            Throttle = throttle;
+            Steer = steer;
+            Brake = brake;
+        }
+        else
+        {
+            Throttle = 0f;
+            Steer = 0f;
+            Brake = 1f;   // held still during the countdown
+        }
+    }
 
     // True once per press. The controller calls this from FixedUpdate.
     public bool ConsumeReset()
@@ -32,6 +55,10 @@ public class CarInput : MonoBehaviour
 
     private void Update()
     {
+        if (UseExternalInput)
+        {
+            return;   // an AI car ignores the keyboard
+        }
         ReadRawInput(out float rawThrottle, out float rawSteer, out bool rawBrake, out bool reset);
         if (!InputEnabled)
         {

@@ -7,7 +7,7 @@ public class CheckpointTrigger : MonoBehaviour
 {
     [SerializeField] private Color _gizmoColor = Color.yellow;
 
-    public event Action<CheckpointTrigger> Crossed;
+    public event Action<CheckpointTrigger, CarController> Crossed;
 
     // Runs when the component is added: makes the collider a trigger.
     private void Reset()
@@ -33,7 +33,7 @@ public class CheckpointTrigger : MonoBehaviour
             return;
         }
 
-        Crossed?.Invoke(this);
+        Crossed?.Invoke(this, car);
     }
 
     // Shows the zone and its driving direction in the Scene view.

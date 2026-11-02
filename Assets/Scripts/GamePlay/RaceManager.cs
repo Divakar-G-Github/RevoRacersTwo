@@ -102,12 +102,18 @@ public class RaceManager : MonoBehaviour
 
     // ---------- Checkpoints and laps ----------
 
-    private void OnTriggerCrossed(CheckpointTrigger trigger)
+    private void OnTriggerCrossed(CheckpointTrigger trigger, CarController car)
     {
+        if (car.gameObject != _carInput.gameObject)
+        {
+            return;   // only the player's car counts here
+        }
+
         if (State != RaceState.Racing)
         {
             return;
         }
+        // ...the rest of the method stays as it is
 
         if (trigger == _finishLine)
         {

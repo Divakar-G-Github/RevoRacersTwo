@@ -1397,7 +1397,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ModeSceneController
   _backButton: {fileID: 545170542}
-  _timeTrailButton: {fileID: 837940712}
+  _timeTrialButton: {fileID: 837940712}
+  _hotLapButton: {fileID: 651950301}
+  _dailyChallengeButton: {fileID: 1015246826}
   _sceneLoader: {fileID: 1224635611}
 --- !u!114 &1224635611
 MonoBehaviour:

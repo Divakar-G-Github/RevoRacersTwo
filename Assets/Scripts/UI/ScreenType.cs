@@ -5,5 +5,7 @@ public enum ScreenType
     Shop,
     Credits,
     LeaderBoard,
-    Profile
+    Profile,
+    Mode,
+    TrackSelection
 }

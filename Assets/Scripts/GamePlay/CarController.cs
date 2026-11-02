@@ -1,7 +1,7 @@
 using UnityEngine;
 
-// Car physics with realistic numbers: engine curve, real brakes, bicycle-model steering,
-// a tire grip limit, air drag and downforce.
+// Car physics: engine curve, real brakes, bicycle-model steering, and a tire model with a
+// slip-angle grip curve, so the car skids when pushed hard or when braking in a turn.
 [RequireComponent(typeof(Rigidbody), typeof(BoxCollider), typeof(CarInput))]
 public class CarController : MonoBehaviour
 {
@@ -12,7 +12,10 @@ public class CarController : MonoBehaviour
     };
 
     private const float MsToKmh = 3.6f;
-    private const float RayStartInset = 0.1f;   // ground rays start this far above the bottom of the box
+    private const float RayStartInset = 0.1f;    // ground rays start this far above the bottom of the box
+    private const float SlideMinSpeed = 3f;      // m/s: below this the tires never slide
+    private const float SlideFullSpeed = 15f;    // m/s: sliding effects reach full strength here
+    private const float SkidSlipAngle = 25f;     // degrees of slip that count as a full skid
 
     [Header("Engine")]
     [SerializeField] private float _topSpeedKmh = 180f;
@@ -35,11 +38,17 @@ public class CarController : MonoBehaviour
     [SerializeField] private float _wheelBase = 3.4f;        // meters, front axle to rear axle
     [SerializeField] private float _maxSteerAngle = 30f;     // degrees of front-wheel angle at low speed
     [SerializeField] private float _steerResponse = 12f;     // how fast the car reaches the wanted turn rate
-    [SerializeField] private float _cornerLimitFactor = 1.2f;   // above 1 lets you push the tires a little
+    // 1 = the steering is limited to what the tires can grip (never skids).
+    // Above 1 you can steer past the grip limit, and the car slides.
+    [SerializeField] private float _cornerLimitFactor = 1.7f;
+    [SerializeField] private float _brakeYawBoost = 0.4f;    // extra rotation when braking in a turn
 
-    [Header("Grip")]
+    [Header("Grip and skidding")]
     [SerializeField] private float _maxLateralAcceleration = 16f;   // m/s² (about 1.6 g)
     [SerializeField] private float _grip = 10f;
+    [SerializeField] private float _recoveryGripMultiplier = 1.5f;  // extra grip when not skidding, so slides end fast
+    [SerializeField] private float _brakeGripMultiplier = 0.5f;     // grip left at full Space while turning
+    [SerializeField] private float _slideDrag = 4f;                 // speed lost while skidding (m/s²)
 
     [Header("Stability")]
     [SerializeField] private float _downforce = 0.001f;      // extra push down, grows with speed squared
@@ -57,11 +66,12 @@ public class CarController : MonoBehaviour
     private float _lastGroundedTime = -100f;
 
     public bool IsGrounded { get; private set; }
+    public float SkidAmount { get; private set; }   // 0 = gripping, 1 = full skid (used by the effects)
+    public float SteerAngle { get; private set; }   // front wheel angle in degrees (used by the wheel visuals)
+    public float ForwardSpeed => Vector3.Dot(_body.linearVelocity, transform.forward);
     public Vector3 Velocity => _body.linearVelocity;
     public float SpeedKmh => _body.linearVelocity.magnitude * MsToKmh;
     public float SpeedRatio => Mathf.Clamp01(SpeedKmh / _topSpeedKmh);
-    public float ForwardSpeed => Vector3.Dot(_body.linearVelocity, transform.forward);
-    public float SteerAngle { get; private set; }   // front wheel angle in degrees (used by the wheel visuals)
 
     private void Awake()
     {
@@ -100,6 +110,7 @@ public class CarController : MonoBehaviour
 
         if (!IsGrounded)
         {
+            SkidAmount = 0f;
             ApplyAirGravity();
             return;
         }
@@ -109,7 +120,7 @@ public class CarController : MonoBehaviour
 
         ApplyLongitudinalForces(velocity, forwardSpeed);
         ApplySteering(forwardSpeed);
-        ApplyGrip();
+        ApplyGrip(velocity, forwardSpeed);
         ApplyDownforce(velocity.sqrMagnitude);
     }
 
@@ -181,7 +192,7 @@ public class CarController : MonoBehaviour
     // ---------- Steering ----------
 
     // Bicycle model: turn rate = speed * tan(steering angle) / wheelbase.
-    // The steering angle is limited to what the tires can grip at the current speed.
+    // The steering angle is limited by the tires' grip, times the Corner Limit Factor.
     private void ApplySteering(float forwardSpeed)
     {
         float speed = Mathf.Abs(forwardSpeed);
@@ -192,22 +203,49 @@ public class CarController : MonoBehaviour
         float steerAngle = Mathf.Min(maxAngle, gripLimitedAngle) * _input.Steer;
         SteerAngle = steerAngle * Mathf.Rad2Deg;
 
+        // Braking in a turn makes the car rotate more (the rear gets light).
+        float brakeBoost = 1f + _brakeYawBoost * _input.Brake * Mathf.Abs(_input.Steer)
+                                * Mathf.Clamp01(speed / SlideFullSpeed);
+
         // forwardSpeed is signed, so reversing flips the turn automatically.
-        float targetYawRate = forwardSpeed * Mathf.Tan(steerAngle) / _wheelBase;   // radians per second
+        float targetYawRate = forwardSpeed * Mathf.Tan(steerAngle) / _wheelBase * brakeBoost;   // radians per second
         float currentYawRate = Vector3.Dot(_body.angularVelocity, transform.up);
         float change = (targetYawRate - currentYawRate) * Mathf.Clamp01(_steerResponse * Time.fixedDeltaTime);
 
         _body.AddTorque(transform.up * change, ForceMode.VelocityChange);
     }
 
-    // ---------- Grip and stability ----------
+    // ---------- Grip, skidding and stability ----------
 
-    // Pulls the car's sideways speed to zero, up to a limit. Beyond the limit the car slides.
-    private void ApplyGrip()
+    // Pulls the car's sideways speed to zero. How strongly depends on the slip angle (a sliding
+    // tire grips less) and on braking in a turn. Sliding also scrubs speed.
+    // Pulls the car's sideways speed to zero. Normal driving has extra grip, so the car never
+    // slides from steering alone. Space while turning at speed lowers the grip, and that is the skid.
+    private void ApplyGrip(Vector3 velocity, float forwardSpeed)
     {
-        float sideSpeed = Vector3.Dot(_body.linearVelocity, transform.right);
-        float lateral = Mathf.Clamp(-sideSpeed * _grip, -_maxLateralAcceleration, _maxLateralAcceleration);
+        Vector3 flatVelocity = Vector3.ProjectOnPlane(velocity, transform.up);
+        float speed = flatVelocity.magnitude;
+        float sideSpeed = Vector3.Dot(velocity, transform.right);
+        float speedFactor = Mathf.Clamp01((speed - SlideMinSpeed) / (SlideFullSpeed - SlideMinSpeed));
+
+        // 0 = no skid, 1 = full skid. Only Space + steering + speed can make it above 0.
+        float skid = _input.Brake * Mathf.Abs(_input.Steer) * speedFactor;
+
+        // Strong grip normally (slides end quickly), low grip while skidding.
+        float gripLeft = Mathf.Lerp(_recoveryGripMultiplier, _brakeGripMultiplier, skid);
+        float limit = _maxLateralAcceleration * gripLeft;
+        float lateral = Mathf.Clamp(-sideSpeed * _grip * gripLeft, -limit, limit);
         _body.AddForce(transform.right * lateral, ForceMode.Acceleration);
+
+        // Skidding scrubs speed.
+        if (skid > 0.01f)
+        {
+            Decelerate(flatVelocity, _slideDrag * skid);
+        }
+
+        // For the skid marks and smoke: skidding, or hard braking at speed.
+        float hardBraking = _input.Brake * speedFactor * 0.7f;
+        SkidAmount = Mathf.Max(skid, hardBraking);
     }
 
     private void ApplyDownforce(float speedSquared)
